@@ -1,5 +1,5 @@
 # Online Portfolio Link
-## codingtolife.github.io
+## DataExplorerX.github.io
 
 ### Introduction
 Welcome to my personal portfolio website! This website showcases my projects, skills, and experience as a developer in the field of Computer Science.
